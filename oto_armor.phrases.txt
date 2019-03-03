@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"DigerRoundlar"
+	{
+		"tr" 				"[{darkred}smdestek.net{default}] {green}Round başı oto {red}zırh ve kask{green} kazandınız."
+	}
+	"Ilk3Round"
+	{
+		"tr" 				"[{darkred}smdestek.net{default}] {green}İlk 3 round oto {red}zırh ve kask{green} verilmiyor."
+	}
+}
